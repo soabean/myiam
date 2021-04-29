@@ -1,4 +1,7 @@
 # Ant
+- task: DownloadSecureFile@1
+  inputs:
+    secureFile: 'fsggf'
 # Build your Java projects and run tests with Apache Ant.
 # Add steps that save build artifacts and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
